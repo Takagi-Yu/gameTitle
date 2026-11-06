@@ -30,7 +30,7 @@ void DrawScene();
 int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ int) {
 
 	// エンジンの初期化
-	KamataEngine::Initialize(L"LE3D_13_タカギ_ユウ");
+	KamataEngine::Initialize(L"LE3D_10_タカギ_ユウ");
 
 	scene = Scene::kTitle;
 
